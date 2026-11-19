@@ -1,6 +1,6 @@
 # Olá, eu sou o Patrick 👋
 
-Desenvolvedor front-end no Rio de Janeiro, formado em Análise e Desenvolvimento de Sistemas e atuando na área de tecnologia desde 2018. Desenvolvo interfaces com **React e TypeScript**, apps mobile com **React Native** e APIs com **Node.js**. Hoje estou me aprofundando em **Java e Spring Boot** para ampliar meu leque no back-end. Aqui ficam meus projetos pessoais e de estudo.
+Desenvolvedor Front-end / Full Stack no Rio de Janeiro, formado em Análise e Desenvolvimento de Sistemas e atuando na área de tecnologia desde 2018. Desenvolvo interfaces com **React e TypeScript**, apps mobile com **React Native** e APIs com **Node.js**. Hoje estou me aprofundando em **Java e Spring Boot** para ampliar meu leque no back-end. Aqui ficam meus projetos pessoais e de estudo.
 
 ## Stack
 
